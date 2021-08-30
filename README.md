@@ -1,5 +1,9 @@
 # RND Recruitment Task
 
+FYI: If you do not want to host the data yourself, you should be able to get them from https://static.rndtech.de/recruitment-task/.
+
+Example: https://static.rndtech.de/recruitment-task/teaser.json (everything in the data-dir is accessible there).
+
 ### Technologies to be used
 - TypeScript
 - React 16 or later
