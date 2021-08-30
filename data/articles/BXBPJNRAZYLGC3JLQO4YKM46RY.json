@@ -1,0 +1,39 @@
+{
+  "id": "BXBPJNRAZYLGC3JLQO4YKM46RY",
+  "hero": {
+    "src": "https://www.rnd.de/resizer/qI6HldzvGLs-Gnw66uAKIcG9Mx4=/0x0:8168x4594/962x541/filters:quality(70):format(webp)/cloudfront-eu-central-1.images.arcpublishing.com/madsack/RCA6FXSS3VA7VJB77EBEOQHYMI.jpeg",
+    "alt": "Freundliche Begrüßung vor der Debatte: Annalena Baerbock (Grüne), Armin Laschet (CDU) und Olaf Scholz (SPD) trafen in ihrem ersten TV-Triell aufeinander.",
+    "copyright": "Michael Kappeler/dpa Pool/dpa"
+  },
+  "meta": {
+    "title": "TV-Triell: Dafür stehen Laschet, Baerbock und Scholz",
+    "topics": [
+      "Bundestagswahl 2021",
+      "Armin Laschet",
+      "Olaf Scholz"
+    ],
+    "published": "2021-08-31T07:31:00.000Z",
+    "author": "Michael Schmidt"
+  },
+  "content": [
+    {
+      "type": "plaintext",
+      "content": "Berlin. Vier Wochen vor der Bundestagswahl haben sich die drei Kanzlerkandidaten von CDU/CSU, SPD und Grünen einen ersten TV-Schlagabtausch zu vielen wichtigen Wahlkampfthemen geliefert. Beim Triell der Sender RTL und ntv diskutierten Armin Laschet, Olaf Scholz und Annalena Baerbock am Sonntagabend konträr über Fragen wie Außen- und Sicherheitspolitik, Corona-Strategie, Bekämpfung des Klimawandels oder Steuerpolitik. Neben Differenzen wurde auch Übereinstimmung in einigen Fragen deutlich."
+    },
+    {
+      "type": "image",
+      "src": "https://www.rnd.de/resizer/zsYPpG5OlCTJdjEfjh-RQHV5zes=/962x541/filters:quality(70):format(webp)/cloudfront-eu-central-1.images.arcpublishing.com/madsack/IIPPTFDTSJAQ7LTRLPIC75KCEA.jpeg",
+      "alt": "Die Kanzlerkandidaten Armin Laschet (von links, CDU), Annalena Baerbock (Bündnis 90/Die Grünen) und Olaf Scholz (SPD).",
+      "copyright": "Michael Kappeler/dpa Pool/dpa"
+    },
+    {
+      "type": "headline",
+      "level": "h2",
+      "content": "Steuerpolitik"
+    },
+    {
+      "type": "plaintext",
+      "content": "Die Steuerpolitik war eines der umstrittensten Themen des Triells. Laschet griff Scholz und Baerbock scharf an: „Es ist eine sozialdemokratische Herangehensweise, immer wenn man kann, auch die Grünen sind mit dabei, Steuern zu erhöhen“, sagte er. Die Steuererhöhungsideen von SPD und Grünen seien „töricht“. Er sei für die komplette Streichung des Solidaritätszuschlags und einen ähnlichen Unternehmenssteuersatz wie etwa in Frankreich, so dass deutsche Unternehmen im Binnenmarkt nicht abwanderten."
+    }
+  ]
+}

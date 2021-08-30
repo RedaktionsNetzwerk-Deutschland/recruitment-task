@@ -1,0 +1,37 @@
+{
+  "id": "F6WAWWR3PB6LLYH6RY65BY7NRE",
+  "hero": {
+    "src": "https://www.rnd.de/resizer/W4yRPXgjVmotrE5H2p7NCS3huJs=/962x541/filters:quality(70):format(webp)/cloudfront-eu-central-1.images.arcpublishing.com/madsack/SYVT2WG5CFAIVMHBNJIEAMHQ24.jpeg",
+    "alt": "Ein Teil eines Daches, das durch den Hurrikan \"Ida\" von einem Gebäude im French Quarter in New Orleans weggeblasen wurde, blockiert eine Kreuzung.",
+    "copyright": "Eric Gay/AP/dpa"
+  },
+  "meta": {
+    "title": "Hurrikan „Ida“ nur noch Kategorie 1: Behörde warnt aber weiter vor „katastrophalen Sturmfluten”",
+    "topics": [
+      "USA",
+      "Hurrikan",
+      "Unwetter"
+    ],
+    "published": "2021-08-30T08:26:00.000Z",
+    "author": "Stephanie Achen"
+  },
+  "content": [
+    {
+      "type": "plaintext",
+      "content": "New Orleans. Hurrikan „Ida“ hat über dem südlichen US-Bundesstaat Louisiana weiter an Stärke verloren. Das Nationale Hurrikanzentrum (NHC) stufte „Ida“ am späten Sonntagabend (Ortszeit) auf die Kategorie eins (von fünf) herab. Der Wirbelsturm bringe nunmehr maximal anhaltende Windgeschwindigkeiten von etwa 150 Kilometern pro Stunde und noch heftigere Böen mit sich, teilte das NHC in Miami mit. Die Behörde warnte weiter vor „katastrophalen Sturmfluten“, orkanartigen Winden sowie Sturzfluten."
+    },
+    {
+      "type": "plaintext",
+      "content": "Der Hurrikan bewegte sich über Land nur sehr langsam fort, daher sind die Orte in seinem Pfad längerer Zeit extremen Winden ausgesetzt. Experten befürchteten deshalb große Schäden."
+    },
+    {
+      "type": "headline",
+      "level": "h2",
+      "content": "„Ida” als „extrem gefährlicher Hurrikan” der Stufe vier auf Land getroffen"
+    },
+    {
+      "type": "plaintext",
+      "content": "„Ida“ war am Sonntagmittag (Ortszeit) als „extrem gefährlicher Hurrikan“ der Stufe vier auf Land getroffen und Stunden später zunächst auf Kategorie drei und dann auf Kategorie zwei herabgestuft worden. Der Wirbelsturm habe beim Erreichen der Küste Windgeschwindigkeiten von rund 240 Kilometern pro Stunde mit sich gebracht, teilte das NHC weiter mit."
+    }
+  ]
+}
