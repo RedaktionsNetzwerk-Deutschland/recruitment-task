@@ -12,7 +12,7 @@ Example: https://static.rndtech.de/recruitment-task/teaser.json (everything in t
 
 
 ### General Criteria
-- Layout should be responsible
+- Layout should be responsive
 - Highest possible PageSpeed Insights Scores
 - Provide documentation how to run the project locally
 - DRY and KISS
